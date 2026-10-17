@@ -4,6 +4,8 @@ Pull a ceremonial cord to unveil a photo or message in a white studio setting.
 
 **[Open JOMAKU](https://masato-nasu.github.io/JOMAKU/)** · **[MASATO LAB](https://masato-lab.pages.dev/tools/jomaku)** · **[Download the complete ZIP](https://github.com/Masato-Nasu/JOMAKU/raw/refs/heads/main/JOMAKU-complete.zip)**
 
+![JOMAKU ceremony preview](preview.svg)
+
 ## Features
 
 - Photographic ceremony scene with a man and woman holding braided red-and-white cords.
